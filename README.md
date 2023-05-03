@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>PERSONAL PORTFOLIO</b></h3>
+  <h3><b>PORTFOLIO</b></h3>
 
 </div>
 
@@ -13,17 +13,10 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -31,9 +24,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [PERSONAL PORTFOLIO] <a name="about-project"></a>
+# 📖 [PORTFOLIO] <a name="about-project"></a>
 
-> A "portfolio" HTML-5 & CSS3 repository built during the portal learning module.
+> A "Mobile app project" HTML-5 & CSS3 repository built during the portal learning module.
 
 It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CSS3 flexbox, grid and figma.
 
@@ -75,7 +68,7 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 
 > Added a link to my deployed project.
 
-- [Live Demo Link](https://mariamosman11.github.io/Portflio/)
+- [Live Demo Link](https://github.com/mar4444/My-portofolio)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +92,7 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 Install this project with:
 
 - Open your command prompt or terminal and run.
--  git clone https://github.com/MariamOsman11/-Portfolio-.git
+-  git clone https://github.com/mar4444/My-portofolio-2.git
 cd -Portfolio-
 
 ### Usage
@@ -123,13 +116,13 @@ To run tests, run the following command:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 👤 **Author1**
 
-- GitHub: https://github.com/MariamOsman
-- Twitter: https://twitter.com/@Mariannaloveee
-- LinkedIn: https://http//www.linkedin.com/in/marian-isman-a57b75226
+- GitHub: [mar4444](https://github.com/mar4444)
+- Twitter: [Musirikare_](https://twitter.com/Musirikare_)
+- LinkedIn: [martin](https://www.linkedin.com/in/imanirumva-martin-b70309266/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
