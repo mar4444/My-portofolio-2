@@ -50,7 +50,7 @@ nav .bar3 {
   margin-bottom: 5px;
 }
 
-.headline {
+.hello {
   background: #fff url("images/header-shapes\ mobile.png") no-repeat;
   background: #fff url("images/header-shapes-mobile.png") no-repeat;
   background-size: contain;
@@ -61,7 +61,7 @@ nav .bar3 {
   padding: 55px 20px 0;
 }
 
-.headline h1 {
+.hello h1 {
   width: 230px;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
@@ -73,7 +73,7 @@ nav .bar3 {
   color: #172b4d;
 }
 
-.headline .content {
+.hello .content {
   width: 327px;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
@@ -83,7 +83,7 @@ nav .bar3 {
   color: #344563;
 }
 
-.headline .connect {
+.hello .connect {
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -92,19 +92,19 @@ nav .bar3 {
   color: #7f8cff;
 }
 
-.headline ul {
+.hello ul {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.headline ul li {
+.hello ul li {
   display: inline;
   margin-right: 4%;
   font-size: 1.4em;
 }
 
-.headline i {
+.hello i {
   color: #505f79;
   margin-bottom: 58%;
 }
