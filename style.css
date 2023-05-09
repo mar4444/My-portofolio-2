@@ -337,6 +337,7 @@ button:hover {
   padding: 0 30px;
   background: #6070ff url(images/contact-form-shapes-mobile.png) no-repeat center;
   background-size: 100% 90%;
+  margin-top: 20%;
 }
 
 #container2 h1 {
