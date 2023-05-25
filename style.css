@@ -518,6 +518,7 @@ html {
   color: #fff;
   transition: 0.3s;
 }
+
 #error-message {
   font-size: 1.7rem;
   color: red;
