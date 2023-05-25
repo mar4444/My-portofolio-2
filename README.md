@@ -26,9 +26,8 @@
 
 # 📖 [PORTFOLIO] <a name="about-project"></a>
 
-> A "Mobile app project" HTML-5 & CSS3 repository built during the portal learning module.
+- This website shows a sneak peek of what I have done, projects developed and deployed, and what I can do to your projects! Developed with HTML, CSS, and JavaScript
 
-It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CSS3 flexbox, grid and figma.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -52,8 +51,6 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 
 ### Key Features <a name="key-features"></a>
 
-> Key features of the application.
-
 - **[Navigation bar]**
 - **[Header section - Introduction]**
 - **[Work Portfolio section - Project description]**
@@ -63,15 +60,6 @@ It is a show of my understanding of Gitflow, use of Linters, HTML5 semantics, CS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Added a link to my deployed project.
-
-- [Live Demo Link](https://github.com/mar4444/My-portofolio)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -111,7 +99,6 @@ To run tests, run the following command:
 ### Deployment
 
 - Project is deployed using [GitHub Pages](https://pages.github.com/)
-- [🚀 Live Demo Link Provided Above ⬆️](#live-demo)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,7 +118,6 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Features to be added:
 
 - [ ] **[Project: Application deploy]**
 - [ ] **[Project: Evaluate accessibility (pair programming)]**
@@ -148,7 +134,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]()
+Feel free to check the [issues page](https://github.com/mar4444/my-portofolio-2/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
